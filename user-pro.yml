@@ -24,4 +24,4 @@ feign:
     enabled: true
 
 test:
-  testStr: hello
+  testStr: hello world
